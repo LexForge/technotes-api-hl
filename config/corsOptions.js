@@ -11,4 +11,4 @@ const corsOptions = {
     credentials: true
 }
 
-module.exports = corsOptions 
+module.exports = corsOptions
